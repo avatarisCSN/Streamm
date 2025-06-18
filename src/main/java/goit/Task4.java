@@ -1,8 +1,8 @@
-package org.example;
+package goit;
 
 import java.util.stream.Stream;
 
-public class task4 {
+public class Task4 {
     public static void main(String[] args) {
         long a = 25214903917L;
         long c = 11;

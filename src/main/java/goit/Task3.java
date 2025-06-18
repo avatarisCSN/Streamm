@@ -1,4 +1,4 @@
-package org.example;
+package goit;
 
 import java.util.Arrays;
 
@@ -16,5 +16,5 @@ public class Task3 {
                 .forEach(System.out::println); // печатаем результат
     }
 
-    }
+}
 
